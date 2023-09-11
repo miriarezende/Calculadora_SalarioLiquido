@@ -1,4 +1,4 @@
-# Calculadora de Salário Líquido
+# Net Salary Calculator
 
 This project was developed for an evaluative activity in the Information Systems course, as a project carried out in pairs. An interface was developed to receive user data 
 entered in the form and display the details of discounts and totals in a table.
