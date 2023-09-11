@@ -4,8 +4,8 @@ This project was developed for an evaluative activity in the Information Systems
 entered in the form and display the details of discounts and totals in a table.
 <br><br>Below are the project images.
 
-![preview](./prints/github/initial.png)
-![preview](./prints/github/showResult.png)
+![preview](./prints/initial.png)
+![preview](./prints/showResult.png)
 
 
 ## Technologies Used
